@@ -8,6 +8,7 @@ A Rosetta stone for moving from JavaScript to Rust. Memory management, Ownership
 - `JSON.stringify` vs `serde`
 
 
+
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -25,3 +26,4 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
